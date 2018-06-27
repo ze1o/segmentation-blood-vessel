@@ -1,6 +1,7 @@
 # Blood Vessel Segmentation on Medical Images
 CS231.I21.KHTN Final Project.   
 Lê Trịnh Khánh Duy - 15520159
+
 Phạm Duy Thanh - 15520804
 # Hướng dẫn sử dụng
 ----SETUP			File cài đặt
