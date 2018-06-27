@@ -1,0 +1,68 @@
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\ReadApp.exe.config
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\ReadApp.exe
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\ReadApp.pdb
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\Dicom.Core.dll
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\Dicom.Core.pdb
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\Interop.MLApp.dll
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.csproj.ResolveComReference.cache
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.About.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.Accuracy.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.Export.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.FrameSpeed.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.MainForm.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.Properties.Resources.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\YLScsImage.ImagePanel.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.Result.resources
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.csproj.GenerateResource.Cache
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.csproj.CoreCompileInputs.cache
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.exe
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.pdb
+E:\Project\Detect-blood-vessel.git\ReadDICOMFile\ReadApp\ReadApp\obj\Debug\ReadApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.exe
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.pdb
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\ReadApp.exe.config
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\ReadApp.exe
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\ReadApp.pdb
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\Dicom.Core.dll
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\Dicom.Core.pdb
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\Interop.MLApp.dll
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.About.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.Accuracy.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.Export.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.FrameSpeed.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.MainForm.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\YLScsImage.ImagePanel.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.Result.resources
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CD-20180516T123306Z-001\CD\PHAN DOAN MACH MAU TRONG ANH Y KHOA\DICOM READER\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\ReadApp.exe.config
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\ReadApp.exe
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\ReadApp.pdb
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\Dicom.Core.dll
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\Dicom.Core.pdb
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\Interop.MLApp.dll
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.About.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.Accuracy.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.Export.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.FrameSpeed.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.MainForm.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\YLScsImage.ImagePanel.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.Result.resources
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.exe
+C:\Users\Administrator\Desktop\Project_CV\DICOM\SOURCE\ReadApp\obj\Debug\ReadApp.pdb
